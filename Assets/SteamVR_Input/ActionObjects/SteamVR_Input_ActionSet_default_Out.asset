@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 040fb26bd9e3a724c9249be045c58559, type: 3}
+  m_Name: SteamVR_Input_ActionSet_default_Out
+  m_EditorClassIdentifier: 
+  actionSet: {fileID: 0}
+  listDirection: 1
+  actions:
+  - {fileID: 11400000, guid: 0df6d9f0b1c100343b0e23151c105e2a, type: 2}
+  Haptic: {fileID: 11400000, guid: 0df6d9f0b1c100343b0e23151c105e2a, type: 2}
