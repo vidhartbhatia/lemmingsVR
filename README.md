@@ -29,7 +29,7 @@ In this project, we sought to create a true to the original VR homage to the cla
 ![](Art/Artboard7.png)
 ![](Art/Artboard5.png)
 ![](Art/Artboard4.png)
-![](Art/Artboard3.png)
+![](https://github.com/vidhartbhatia/lemmingsVR/blob/master/Art/Artboard3.jpg)
 
 
 ![Demo](Videos-and-gifs/Lemming-Gifs/lemmings_anim.gif)
