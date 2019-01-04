@@ -26,9 +26,9 @@ In this project, we sought to create a true to the original VR homage to the cla
 
 ## The controls
 
-![](Art/Artboard7.png)
-![](Art/Artboard5.png)
-![](Art/Artboard4.png)
+![](https://github.com/vidhartbhatia/lemmingsVR/blob/master/Art/Artboard7.jpg)
+![](https://github.com/vidhartbhatia/lemmingsVR/blob/master/Art/Artboard5.jpg)
+![](https://github.com/vidhartbhatia/lemmingsVR/blob/master/Art/Artboard4.jpg)
 ![](https://github.com/vidhartbhatia/lemmingsVR/blob/master/Art/Artboard3.jpg)
 
 
